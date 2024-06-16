@@ -2,10 +2,6 @@
 
 A Counter-Strike 2 **Inventory Simulator** for the web using TypeScript and Remix.
 
-<img src="https://raw.githubusercontent.com/ianlucas/cs2-inventory-simulator/main/screenshot1.png" alt="Inventory Simulator homepage" title="CS2 Inventory Simulator" />
-
-<img src="https://raw.githubusercontent.com/ianlucas/cs2-inventory-simulator/main/screenshot2.png" alt="Inventory Simulator case opening" title="CS2 Inventory Simulator" />
-
 ## Features
 
 - **Authentication is optional:** most features work without authentication.
@@ -18,18 +14,3 @@ A Counter-Strike 2 **Inventory Simulator** for the web using TypeScript and Remi
 - **Storage Units:** organize and store items in Storage Units.
 - **API for developers:** fetch a user inventory and equipped items by using HTTP endpoints.
 - **Partial support for mobile devices**
-
-## Bugs and Feature Requests
-
-Please be sure to add the following prefixes in the title when opening an issue:
-
-- [BUG] for issues you have found within the core functionality.
-- [REQ] for requesting a feature not currently implemented.
-- [REQ/RULE] for requesting [a rule](https://github.com/ianlucas/cs2-inventory-simulator/blob/main/docs/rules.md) to be implemented.
-
-## Documentation
-
-The documentation is divided into several sections:
-
-- [Rules](https://github.com/ianlucas/cs2-inventory-simulator/blob/main/docs/rules.md)
-- [API for Developers](https://github.com/ianlucas/cs2-inventory-simulator/blob/main/docs/api.md)
